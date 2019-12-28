@@ -41,14 +41,14 @@ export default class ExpandingUniverse extends React.Component {
                 observing how it changed it's position as earth goes around it.
                 But the stars in other galaxies are so far away. So Hubble was
                 forced to use indirect methods to calculate these distances. One
-                way to calculate the distance is, the brightness of a start
+                way to calculate the distance is, the brightness of a star
                 depends on two factors luminosity and how far it is from. For
                 nearby stars we can measure both it's apparent brightness and
                 distance, so we can work out their luminosity. Conversly, if we
                 knew the luminosity of stars in other galaxies, we could work
-                out it's distance by measuring it's apparane brightness. Hubble
+                out it's distance by measuring it's apparant brightness. Hubble
                 argued that there were certain types of stars in each galaxy
-                which has same luminosity. So we are near to it we can calculate
+                which has same luminosity. So when we are near to it, we can calculate
                 the distance. Like this he calculated the distance to nine
                 different galaxies.
               </p>
@@ -88,7 +88,7 @@ export default class ExpandingUniverse extends React.Component {
                 Doppler effect.
               </p>
               <p>
-                In 1929 Hubble published each and every single galaxy was moving
+                In 1929 Hubble published that each and every single galaxy was moving
                 away from us and the resultant red-shift was not random, it is
                 praportional to the galaxy's diatance from us. If universe was
                 expanding fairly slowly, the force of gravity would cause it
