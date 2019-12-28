@@ -1,0 +1,45 @@
+* {
+  font-family: "Dancing Script", cursive !important;
+}
+.main-container {
+  background-color: #c0c0c0 !important;
+}
+.jumbotron {
+  margin: 3rem auto;
+}
+.my-quote {
+  font-family: "Indie Flower", cursive !important;
+}
+.my-img {
+  width: 18rem;
+  height: 60px;
+}
+.card {
+  width: 18rem !important;
+  background-color: #7b7d7d !important;
+}
+.card-title {
+  font-size: 1.5rem;
+}
+.footer {
+  background: #152f4f;
+  color: white;
+}
+.links ul {
+  list-style-type: none;
+}
+.links ul li a {
+  color: #eee;
+  transition: color 0.2s;
+}
+.links ul li a:hover {
+  text-decoration: none;
+  color: #4180cb;
+}
+.about-company a {
+  color: white;
+  transition: color 0.2s;
+}
+.copyright p {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
