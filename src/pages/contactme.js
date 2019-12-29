@@ -7,7 +7,7 @@ export default class ContactMe extends React.Component {
   render() {
     return (
       <div>
-        <SEO title="AstroGeekz | How to reach me" />
+        <SEO title="CosmicNerds | How to reach me" />
         <NavBar />
         <div className=" container main-container">
           <div className="row">
