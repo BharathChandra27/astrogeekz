@@ -9,7 +9,7 @@ export default class Footer extends React.Component {
             <div className="col-lg-5 col-xs-12 about-company">
               <h2>About</h2>
               <p className="pr-5 text-white-50">
-                I'm an MEARN Stack web developer who has intrest in Astrophysics
+                I'm an MEARN Stack web developer who has interest in Astrophysics
                 and cosmology.
               </p>
             </div>
