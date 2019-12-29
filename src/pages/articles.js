@@ -8,7 +8,7 @@ export default class Articles extends React.Component {
   render() {
     return (
       <div className="main-container">
-        <SEO title="AstroGeekz | Articles" />
+        <SEO title="CosmicNerds | Articles" />
         <NavBar />
         <div className="container-fluid">
           <div className="row">
