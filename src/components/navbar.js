@@ -19,7 +19,7 @@ const NavBar = props => {
     <div>
       <Navbar color="dark" light expand="md">
         <NavbarBrand href="/" style={{ color: "#fff", fontSize: "1.7rem" }}>
-          AstroGeekz
+          CosmicNerds
         </NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
